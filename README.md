@@ -7,7 +7,7 @@ Saya mahasiswa di Universitas Handayani Makassar.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arykurnia/)ku ya.<br>
 
 [![Linkedin: Ary Kurnia](https://img.shields.io/badge/-AryKurnia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arykurnia/)](https://www.linkedin.com/in/arykurnia/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/AryKurnia)
+[![GitHub Thaiane](https://img.shields.io/github/followers/AryKurnia?label=follow&style=social)](https://github.com/AryKurnia)
 
 <p align="left">
 <a href="https://github.com/AryKurnia">
