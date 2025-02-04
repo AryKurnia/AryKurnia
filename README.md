@@ -3,6 +3,7 @@
 Perkenalkan nama saya **Ary Kurnia**.<br>
 
 Saya mahasiswa di Universitas Handayani Makassar.<br>
+Saya pernah mengikuti program di Bangkit Academy, dan sejak saat itu, saya tertarik dengan pemrograman web, terutama di bidang backend development menggunakan bahasa pemrograman JavaScript. Saat ini, saya terus mengembangkan keterampilan saya dalam membangun dan mengelola sistem backend yang efisien, skalabel, dan aman.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arykurnia/)ku ya.<br>
 
