@@ -1,3 +1,4 @@
+![Banner](./assets/banner.jpg)
 # Halo semua! 
 
 Perkenalkan nama saya **Ary Kurnia**.<br>
